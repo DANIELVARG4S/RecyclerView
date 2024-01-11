@@ -2,7 +2,7 @@ package com.example.recyclerview
 
 class SuperHeroProvider {
     companion object {
-        val superHeroList = listOf<SuperHero>(
+        val superHeroList = listOf(
             SuperHero(
                 "SuperMan",
                 "DC",
